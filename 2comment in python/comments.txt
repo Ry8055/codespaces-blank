@@ -1,0 +1,3 @@
+single line comments : 
+to add single line comments # is used .
+python completely ignores everything writen after #

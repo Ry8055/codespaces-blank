@@ -1,0 +1,24 @@
+USER INPUT 
+To ask for the input from the user , default datatype is string . 
+name = input("enter your name here")
+print(name)
+
+output : 
+Entered name by the user . 
+
+if want to take input in numerical that means age or any number that we can do .
+age  = int(input("enter your age here))
+print(age)
+note : if user give string input instead of number , it will through error . 
+
+
+float : 
+similarly suppose any input is in decimal form  then we use flaot , 
+height  = float(input("enter your height"))
+print(height)
+
+
+eval : 
+It evaluate the calculation in python 
+exp1 = eval(input("enter any equation here :))
+print(exp1)

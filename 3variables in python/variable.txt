@@ -1,0 +1,22 @@
+Variable are placeholder which can store a value .
+In simple word variable is a container that holds data inside it as a value .
+Input 
+a = "hello world" 
+output 
+hello world
+
+
+- variable name should be case sensitive , 
+Name = "radhe"
+print(name)    #this will be wrong
+
+2. Make sure not to use space while creating variable .
+One can use _ to separate the names while creating variable .
+even num = 2  # this will be wrong 
+even_num = 2  # this is correct 
+
+
+3 . Variable Name should not start with symbol and number
+1num = 1  # this is wrong 
+num1 = 1 # correct 
+@h = "name"  # this also show error 

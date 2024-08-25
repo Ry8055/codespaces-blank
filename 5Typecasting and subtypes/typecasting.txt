@@ -1,0 +1,12 @@
+Typecasting : 
+Conversion of one datatype to the another datatype is called Typecasting .
+
+There are two types of Typecasting
+implicit Type Conversion : where python itself converts one datatype to another . 
+
+explicit type conversion : where user converts one datatype to another . 
+
+
+We can know the type of data with method type : 
+name = " radhe " 
+print(type(name))

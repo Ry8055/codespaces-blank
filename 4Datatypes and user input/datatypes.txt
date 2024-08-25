@@ -1,0 +1,52 @@
+DataTypes 
+In Python, data types are classifications that dictate what type of value a variable can hold.
+Here's an overview of common data types with examples:
+
+1. Numeric Types
+Integer (int): Whole numbers, positive or negative, without a decimal point.
+age = 30
+
+Float (float): Numbers with a decimal point.
+price = 19.99
+
+Complex (complex): Numbers with a real and imaginary part.
+z = 2 + 3j
+
+2. Sequence Types
+String (str): A sequence of characters enclosed in single, double, or triple quotes.
+name = "Alice"
+
+List (list): An ordered collection of items, which can be of different types. Lists are mutable.
+fruits = ["apple", "banana", "cherry"]
+
+Tuple (tuple): An ordered collection of items similar to a list, but tuples are immutable.
+coordinates = (10, 20)
+
+3. Mapping Type
+Dictionary (dict): A collection of key-value pairs, where keys are unique.
+person = {"name": "Alice", "age": 30}
+
+4. Set Types
+Set (set): An unordered collection of unique items.
+unique_numbers = {1, 2, 3, 4}
+
+Frozenset (frozenset): An immutable version of a set.
+frozen_unique_numbers = frozenset([1, 2, 3, 4])
+
+5. Boolean Type
+Boolean (bool): Represents one of two values: True or False.
+is_valid = True
+
+6. Binary Types
+Bytes (bytes): Immutable sequences of bytes.
+byte_data = b"Hello"
+
+Bytearray (bytearray): Mutable sequences of bytes.
+mutable_byte_data = bytearray(b"Hello")
+
+Memoryview (memoryview): A view object that exposes the buffer interface.
+mem_view = memoryview(byte_data)
+
+7. None Type
+NoneType (None): Represents the absence of a value.
+result = None

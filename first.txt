@@ -1,0 +1,13 @@
+Python first program : 
+Print statement : 
+To call a print function in python we just need to write print followed by parentheses () and values written inside quotation marks””, also we can use single quotation . 
+
+Input –
+print(“hello world”)
+output: 
+hello world
+
+Using Multiple lines in print statement : 
+There are two methods to write a statement in multiple lines : 
+-	To print multiple lines in python, triple quotations are used . 
+-	\n (backslash) is used to insert something in the next line . 
